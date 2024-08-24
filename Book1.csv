@@ -1,0 +1,21 @@
+t_code,t_name,Class_A,Response_1,Response_2,Response_3
+1,anne,Student_A,Dedication,Respectfulness,Communication
+1,anne,Student_B,Empathy,Motivational,Knowledgeable
+2,jp,Student_C,Patience,Active Listening,Cheerful
+2,jp,Student_D,Supportiveness,Active Listening,Cheerful
+3,jariya,Student_E,Supportiveness,Motivational,Communication
+3,jariya,Student_F,Supportiveness,Respectfulness,Knowledgeable
+4,ramani,Student_G,Patience,Motivational,Cheerful
+3,jariya,Student_H,Supportiveness,Dedication,Empathy
+3,jariya,Student_I,Patience,Motivational,Empathy
+4,ramani,Student_J,Dedication,Empathy,Cheerful
+2,jp,Student_K,Supportiveness,Motivational,Communication
+3,jariya,Student_L,Patience,Dedication,Empathy
+5,lidya,Student_M,Dedication,Respectfulness,Knowledgeable
+6,swetha,Student_N,Patience,Knowledgeable,Empathy
+7,muthu,Student_O,Patience,Motivational,Communication
+1,anne,Student_P,Patience,Motivational,Empathy
+2,jp,Student_Q,Patience,Active Listening,Cheerful
+3,jariya,Student_R,Supportiveness,Active Listening,Cheerful
+2,jp,Student_S,Empathy,Respectfulness,Knowledgeable
+4,ramani,Student_T,Patience,Dedication,Respectfulness
